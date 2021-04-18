@@ -1,4 +1,14 @@
 - commits:
+    - subject: add pnp-webpack-plugin
+      hash: eddce4c8793ed00449c812cd000c24c94885c5df
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Zane Hitchcox
+  version: 1.5.118
+  date: 2021-04-18T21:05:56.994Z
+- commits:
     - subject: Rename mac releases (keep old naming)
       hash: 0bdea5c54ca1465d89c73cd269e60ebb24c79f0f
       body: ''
